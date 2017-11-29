@@ -1,3 +1,4 @@
+```
 npm install -g weex-toolkit
 weex -v
 weex update weex-devtool@latest
@@ -6,3 +7,4 @@ weex create weex
 cd weex
 npm install
 ./start
+```
